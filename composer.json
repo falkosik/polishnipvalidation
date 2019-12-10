@@ -1,7 +1,6 @@
 {
     "name": "falkosik/polishnipvalidator",
     "description": "Polish NIP Validator",
-    "type": "project",
     "license": "MIT",
     "authors": [
         {
