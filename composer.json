@@ -1,0 +1,29 @@
+{
+    "name": "falkosik/polishnipvalidator",
+    "description": "Polish NIP Validator",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pawel Falkowski",
+            "email": "kontakt@pawelfalkowski.pl"
+        }
+    ],
+    "minimum-stability": "dev",
+    
+    "autoload": {
+        "psr-4": {
+                "Falkosik\\Polishnipvalidator\\": ""
+        }
+        },
+        
+          "extra": {
+    "laravel": {
+      "providers": [
+        "Falkosik\\Polishnipvalidator\\PolishNipValidatorServiceProvider"
+      ]
+    }
+  },
+    
+    "require": {}
+}
