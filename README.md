@@ -28,7 +28,7 @@ You have 1 new Validator rule:
 
 
 # Code Authors
-A special thanks to authors of [phpedia.pl](]http://phpedia.pl/wiki/Walidacja_numeru_NIP), an original pesel validator creators that this package is based on.
+A special thanks to authors of [phpedia.pl](http://phpedia.pl/wiki/Walidacja_numeru_NIP), an original NIP validator creators that this package is based on.
 
 # Packagist
 View this package on Packagist.org: [falkosik/polishnipvalidator](https://packagist.org/packages/falkosik/polishnipvalidator)
