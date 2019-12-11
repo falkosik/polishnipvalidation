@@ -24,7 +24,7 @@ directory.
 # Usage
 You have 1 new Validator rule:
 
-- `pesel`  - Checks if number is valid NIP number
+- `nip`  - Checks if number is valid NIP number
 
 
 # Code Authors
