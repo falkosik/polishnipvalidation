@@ -11,7 +11,11 @@ On earlier versions, you need to do that manually. You must add the Service Prov
 	Falkosik\Polishnipvalidator\PolishNipValidatorRulesServiceProvider::class,
 
 To translate messages you must create file:
+
 	validation.php
+	
 in your project 
+
 	resources/lang/pl or /en 
+	
 directory.
